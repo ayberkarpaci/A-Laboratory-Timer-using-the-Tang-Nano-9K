@@ -1,6 +1,6 @@
 # Laboratory Timer on the Tang Nano 9K
 
-[![simulation](https://github.com/ayberkarpaci/A-Laboratory-Timer-using-the-Tang-Nano-9K/actions/workflows/sim.yml/badge.svg)](https://github.com/ayberkarpaci/A-Laboratory-Timer-using-the-Tang-Nano-9K/actions/workflows/sim.yml)
+[![simulation](https://github.com/ayberkarpaci/fpga-lab-timer/actions/workflows/sim.yml/badge.svg)](https://github.com/ayberkarpaci/fpga-lab-timer/actions/workflows/sim.yml)
 
 A laboratory timer in **MM:SS** format, designed as a gate-level schematic in
 [Digital](https://github.com/hneemann/Digital) and implemented on the
