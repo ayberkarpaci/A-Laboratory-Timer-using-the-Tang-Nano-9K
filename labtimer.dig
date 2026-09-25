@@ -864,6 +864,11 @@
       <pos x="1040" y="60"/>
     </visualElement>
     <visualElement>
+      <elementName>Const</elementName>
+      <elementAttributes/>
+      <pos x="1000" y="100"/>
+    </visualElement>
+    <visualElement>
       <elementName>Not</elementName>
       <elementAttributes>
         <entry>
@@ -1963,10 +1968,6 @@
     <wire>
       <p1 x="1340" y="280"/>
       <p2 x="1520" y="280"/>
-    </wire>
-    <wire>
-      <p1 x="740" y="280"/>
-      <p2 x="1000" y="280"/>
     </wire>
     <wire>
       <p1 x="580" y="1560"/>
@@ -4623,10 +4624,6 @@
     <wire>
       <p1 x="1000" y="60"/>
       <p2 x="1000" y="80"/>
-    </wire>
-    <wire>
-      <p1 x="1000" y="100"/>
-      <p2 x="1000" y="280"/>
     </wire>
     <wire>
       <p1 x="1000" y="320"/>

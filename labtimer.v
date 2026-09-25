@@ -349,7 +349,7 @@ module labtimer (
   DIG_Register DIG_Register_i13 (
     .D( s38 ),
     .C( CLK ),
-    .en( s37 ),
+    .en( 1'b1 ),
     .Q( s36 )
   );
   assign s51 = ((s41 & s31 & s36) | (s42 & s31 & ~ s36));
